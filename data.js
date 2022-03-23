@@ -77,7 +77,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "Meteor",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
